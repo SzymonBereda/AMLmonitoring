@@ -1,0 +1,4 @@
+tx_id,customer_id,timestamp,amount,currency,counterparty_country,direction
+M1,C900,2026-02-01T10:00:00,9500,EUR,PL,in
+M2,C900,2026-02-01T12:00:00+01:00,9600,EUR,PL,in
+M3,C900,2026-02-01T18:00:00Z,9700,EUR,PL,in
